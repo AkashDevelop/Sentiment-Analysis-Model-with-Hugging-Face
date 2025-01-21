@@ -1,7 +1,7 @@
 # 💬 **Sentiment Analysis Using Machine Learning** 🧠  
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)  
-[![Natural Language Processing](https://img.shields.io/badge/NLP-Tfidf%20Vectorization-orange?logo=numpy&logoColor=white)](https://www.nltk.org/)  
+[![Natural Language Processing](https://img.shields.io/badge/NLP-Vectorization-orange?logo=numpy&logoColor=white)](https://www.nltk.org/)  
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](#final-results)  
 
 --- 
