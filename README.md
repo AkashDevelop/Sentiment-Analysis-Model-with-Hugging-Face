@@ -19,7 +19,7 @@
 💡 **Approach**:  
 1. Clean and preprocess raw textual data.  
 2. Train and evaluate machine learning models for sentiment classification.  
-3. Deploy the model for real-world usage.  
+3. Deploy the model in Huggingface space for real-world usage.  
 
 📽️ **Visual Representation**  
 
@@ -44,27 +44,25 @@
 - Lowercased and lemmatized words for consistency.  
 
 **2️⃣ Feature Extraction**:  
-- Applied **TF-IDF Vectorization** to represent text numerically.
+- Applied **Vectorization** to represent text numerically.
 
 ## 🏋️‍♂️ **Training Process**  
 
-1️⃣ Split data into **Train (80%)** and **Test (20%)** sets.  
-2️⃣ Applied **GridSearchCV** for hyperparameter tuning.  
-3️⃣ Evaluated models using cross-validation with metrics like **Precision**, **Recall**, and **F1 Score**.  
+ Split data into **Train (80%)** and **Test (20%)** sets.  
+ Evaluated models using cross-validation with metrics like **Precision**, **Recall**, and **F1 Score**.  
 
 ## 🌐 **Deployment**  
 
 🌟 **Interactive Web Application**:  
-Deployed the sentiment analysis model using **Streamlit**.  
+Deployed the sentiment analysis model using **gradio**.  
 **Features**:  
-1. Upload text files or input sentences directly.  
+1. Upload input sentences directly.  
 2. Real-time sentiment predictions.  
-3. Downloadable results in `.csv` format.
 
 ## 🚀 **Conclusion and Future Work**  
 
 ✅ **Conclusion**:  
-- Successfully built and deployed a sentiment analysis model with 90% accuracy.  
+- Successfully built and deployed a sentiment analysis pre trained model with 90% accuracy.  
 - Demonstrated the application in real-world scenarios using a user-friendly interface.  
 
 🔮 **Future Improvements**:  
