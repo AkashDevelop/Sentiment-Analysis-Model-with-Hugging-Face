@@ -30,7 +30,7 @@
 ## 🎯 **Objective**  
 
 1️⃣ Preprocess textual data for better model performance.  
-2️⃣ Transform text using advanced vectorization techniques like **TF-IDF**.  
+2️⃣ Transform text using advanced vectorization techniques like **tokenization**.  
 3️⃣ Train and evaluate machine learning algorithms for sentiment classification.  
 4️⃣ Deploy an interactive application for real-time sentiment predictions.  
 
