@@ -4,9 +4,12 @@
 [![Natural Language Processing](https://img.shields.io/badge/NLP-Tfidf%20Vectorization-orange?logo=numpy&logoColor=white)](https://www.nltk.org/)  
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)](#final-results)  
 
----
+--- 
+🚨 **Disclaimer**: This app is provided for educational purposes only. Please do not misuse or overload the system.
+
 
 📽️ **App Link**: [Sentiment Analysis Live App](https://huggingface.co/spaces/Akash076/Gradio-sentiment-analysis)  
+
 
 ---
 
