@@ -18,9 +18,8 @@
 🔍 **Goal**: Develop a robust sentiment analysis model to classify text into positive, negative, or neutral sentiments.  
 💡 **Approach**:  
 1. Clean and preprocess raw textual data.  
-2. Transform text into numerical features using **TF-IDF Vectorization**.  
-3. Train and evaluate machine learning models for sentiment classification.  
-4. Deploy the model for real-world usage.  
+2. Train and evaluate machine learning models for sentiment classification.  
+3. Deploy the model for real-world usage.  
 
 📽️ **Visual Representation**  
 
