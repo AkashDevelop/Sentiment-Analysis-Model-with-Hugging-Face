@@ -84,5 +84,5 @@ Deployed the sentiment analysis model using **gradio**.
 
 1️⃣ Clone the repository:  
 ```bash  
-git clone https://github.com/username/sentiment-analysis.git  
+git clone [https://github.com/username/sentiment-analysis.git](https://github.com/AkashDevelop/Sentiment-Analysis-Model-with-Hugging-Face?tab=readme-ov-file)  
 cd sentiment-analysis  
